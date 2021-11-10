@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MyTrackandTrace'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AAF546FB0AC4165B9B4D7D811B83FBB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD196375A591492A8C3B445C3FFBD956 }}
           package: .
