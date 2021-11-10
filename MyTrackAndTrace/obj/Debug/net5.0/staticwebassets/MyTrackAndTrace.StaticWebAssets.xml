@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\morten.olsen\source\repos\Blazor\Track\Track-and-Trace\MyTrackAndTrace\MyTrackAndTrace\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\morten.olsen\source\repos\Blazor\Track\Track-and-Trace\MyTrackAndTrace\MyTrackAndTrace\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
